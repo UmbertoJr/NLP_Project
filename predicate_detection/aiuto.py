@@ -1,0 +1,1 @@
+print(" per cambiare i parametri da console si può inserire il comando seguito dal valore, per esempio\n\t batch=1000 \n\t layers=2 \n\t hidden_Bi_lstm=40 \n\t max_length_sentences=60\n")
